@@ -31,13 +31,3 @@ This repo contains verified solutions for HackerRank Problem Solving certificati
 - **Editor:** VS Code  
 
 ---
-
-## 🚀 Repository Stats
-![Repo size](https://img.shields.io/github/repo-size/YourGitHubUsername/HackerRank-Problem-Solving-Certified-Solutions)
-![Stars](https://img.shields.io/github/stars/YourGitHubUsername/HackerRank-Problem-Solving-Certified-Solutions?style=social)
-![Forks](https://img.shields.io/github/forks/YourGitHubUsername/HackerRank-Problem-Solving-Certified-Solutions?style=social)
-![License](https://img.shields.io/github/license/YourGitHubUsername/HackerRank-Problem-Solving-Certified-Solutions)
-
----
-
-## 📂 Folder Structure
