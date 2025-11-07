@@ -15,19 +15,14 @@ This repo contains verified solutions for HackerRank Problem Solving certificati
 ---
 
 ## 🏆 Certificates
-- 🥇 [Problem Solving (Basic)](https://www.hackerrank.com/certificates/2c69ac4b4228)
-- 🥈 [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/12379c9096b2)
+- 🥇 [Python (Basic)](https://www.hackerrank.com/certificates/2c69ac4b4228)
+- 🥈 [CSS (Basic)](https://www.hackerrank.com/certificates/12379c9096b2)
 
 ---
 
 ## 💡 Topics Covered
-- Data Structures
-- Algorithms
-- Loops & Conditionals
-- Strings
-- Functions
-- Mathematics
-
+- Python
+- CSS
 ---
 
 ## ⚙️ Technologies Used
