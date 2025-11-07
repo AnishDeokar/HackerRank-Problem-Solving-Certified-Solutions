@@ -15,8 +15,8 @@ This repo contains verified solutions for HackerRank Problem Solving certificati
 ---
 
 ## 🏆 Certificates
-- 🥇 [Problem Solving (Basic)](link_to_certificate)
-- 🥈 [Problem Solving (Intermediate)](link_to_certificate)
+- 🥇 [Problem Solving (Basic)](https://www.hackerrank.com/certificates/2c69ac4b4228)
+- 🥈 [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/12379c9096b2)
 
 ---
 
