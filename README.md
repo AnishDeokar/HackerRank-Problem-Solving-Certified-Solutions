@@ -10,7 +10,7 @@ This repo contains verified solutions for HackerRank Problem Solving certificati
 ---
 
 ## 🎓 Personal HackerRank Profile
-🔗 [View Profile](https://www.hackerrank.com/yourusername)
+🔗 [View Profile](https://www.hackerrank.com/profile/anishy_deokar)
 
 ---
 
