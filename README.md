@@ -24,6 +24,7 @@ This repo contains verified solutions for HackerRank Problem Solving certificati
 ## 💡 Topics Covered
 - Python
 - CSS
+- JAVA
 ---
 
 ## ⚙️ Technologies Used
