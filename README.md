@@ -17,6 +17,7 @@ This repo contains verified solutions for HackerRank Problem Solving certificati
 ## 🏆 Certificates
 - 🥇 [Python (Basic)](https://www.hackerrank.com/certificates/2c69ac4b4228)
 - 🥈 [CSS (Basic)](https://www.hackerrank.com/certificates/12379c9096b2)
+- 🥈 [JAVA (Basic)](https://www.hackerrank.com/certificates/c05cd2a602f0)
 
 ---
 
